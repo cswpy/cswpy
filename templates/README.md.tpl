@@ -10,22 +10,22 @@
 
 📬 Email: [hncswpy@gmail.com](mailto:hncswpy@gmail.com)
 
-#### 🔭 My recent contributions ...
+#### 🔭 I am contributing to
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### ⌨️ My recent projects ...
+#### ⌨️ Personal projects that I am working on
 {{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### ⭐ Check out my recent stars
+#### ⭐ Interesting repos I starred recently
 {{range recentStars 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 🔨 My recent pull requests
+#### 🔨 Raised Pull Requests for
 {{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
