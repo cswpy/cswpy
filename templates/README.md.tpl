@@ -30,5 +30,5 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### Number of visitors
+#### 🔢 Number of visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cswpy)
