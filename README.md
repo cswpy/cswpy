@@ -1,20 +1,26 @@
+Senior year undergraduate student at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
 
-<!--
-**cswpy/cswpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in data engineering, distributed systems, and [MLOps](https://dlab.berkeley.edu/news/what-mlops-introduction-world-machine-learning-operations).
 
-Here are some ideas to get you started:
+Personal website: [phillipw.info](https://phillipw.info/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Blog/Digital Garden: [blog.phillipw.info](https://blog.phillipw.info/)
 
+LinkedIn: [pengyu-wang](https://www.linkedin.com/in/pengyu-wang/)
 
-![image](https://user-images.githubusercontent.com/34707116/142562010-4ecf77be-91d3-42f2-a79d-c27179ba4de0.png)
+Email: [hncswpy@gmail.com](mailto:hncswpy@gmail.com)
 
+#### 🔭 My recent contributions ...
+
+- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) -  (1 day ago)
+- [cswpy/digital-garden](https://github.com/cswpy/digital-garden) -  (4 weeks ago)
+- [michaelshiloh/robotaPsycheEcosystems](https://github.com/michaelshiloh/robotaPsycheEcosystems) - A world combining ecosystems from each student (2 months ago)
+
+#### ⌨️ My recent projects ...
+
+- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - 
+- [cswpy/digital-garden](https://github.com/cswpy/digital-garden) - 
+- [cswpy/SimpleDB](https://github.com/cswpy/SimpleDB) - SimpleDB is the lab assignment for the course Database System Design at NYUAD
+
+#### Number of visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cswpy)
