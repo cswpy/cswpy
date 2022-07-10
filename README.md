@@ -12,14 +12,14 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) -  (1 day ago)
-- [cswpy/digital-garden](https://github.com/cswpy/digital-garden) -  (4 weeks ago)
+- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (1 day ago)
+- [cswpy/digital-garden](https://github.com/cswpy/digital-garden) - The website for hosting my public notes in my digital garden in Markdown form (4 weeks ago)
 - [michaelshiloh/robotaPsycheEcosystems](https://github.com/michaelshiloh/robotaPsycheEcosystems) - A world combining ecosystems from each student (2 months ago)
 
 #### ⌨️ Personal projects that I am working on
 
-- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - 
-- [cswpy/digital-garden](https://github.com/cswpy/digital-garden) - 
+- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems
+- [cswpy/digital-garden](https://github.com/cswpy/digital-garden) - The website for hosting my public notes in my digital garden in Markdown form
 - [cswpy/SimpleDB](https://github.com/cswpy/SimpleDB) - SimpleDB is the lab assignment for the course Database System Design at NYUAD
 
 #### ⭐ Interesting repos I starred recently
