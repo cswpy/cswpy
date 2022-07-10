@@ -20,5 +20,15 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+#### ⭐ Check out my recent stars
+{{range recentStars 3}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+
+#### 🔨 My recent pull requests
+{{range recentPullRequests 3}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
 #### Number of visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cswpy)
