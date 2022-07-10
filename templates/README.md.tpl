@@ -1,14 +1,14 @@
-Senior year undergraduate student at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
+🎓 Senior year undergraduate student at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
 
-Interested in data engineering, distributed systems, and [MLOps](https://dlab.berkeley.edu/news/what-mlops-introduction-world-machine-learning-operations).
+🧑‍💻 Interested in data engineering, distributed systems, and [MLOps](https://dlab.berkeley.edu/news/what-mlops-introduction-world-machine-learning-operations).
 
-Personal website: [phillipw.info](https://phillipw.info/)
+💡 Personal website: [phillipw.info](https://phillipw.info/)
 
-Blog/Digital Garden: [blog.phillipw.info](https://blog.phillipw.info/)
+📓 Blog/Digital Garden: [blog.phillipw.info](https://blog.phillipw.info/)
 
-LinkedIn: [pengyu-wang](https://www.linkedin.com/in/pengyu-wang/)
+🙌 LinkedIn: [pengyu-wang](https://www.linkedin.com/in/pengyu-wang/)
 
-Email: [hncswpy@gmail.com](mailto:hncswpy@gmail.com)
+📬 Email: [hncswpy@gmail.com](mailto:hncswpy@gmail.com)
 
 #### 🔭 My recent contributions ...
 {{range recentContributions 3}}
