@@ -22,5 +22,17 @@
 - [cswpy/digital-garden](https://github.com/cswpy/digital-garden) - 
 - [cswpy/SimpleDB](https://github.com/cswpy/SimpleDB) - SimpleDB is the lab assignment for the course Database System Design at NYUAD
 
+#### ⭐ Check out my recent stars
+
+- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (today)
+- [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) - Basic Sources for MIT 6.824 Distributed Systems Class (5 days ago)
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for machine learning (3 weeks ago)
+
+#### 🔨 My recent pull requests
+
+- [Fixed BigQueryCreateExternalTableOperator and its unit test (#24160)](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (1 month ago)
+- [[DLFL21] Update 07-3.md](https://github.com/Atcold/pytorch-Deep-Learning/pull/804) on [Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) (7 months ago)
+- [更新第二章](https://github.com/Code-Recipe/Python_Object-oriented_Programming/pull/2) on [Code-Recipe/Python_Object-oriented_Programming](https://github.com/Code-Recipe/Python_Object-oriented_Programming) (4 years ago)
+
 #### Number of visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cswpy)
