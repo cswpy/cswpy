@@ -12,9 +12,9 @@
 
 #### 🔭 I am contributing to
 
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (today)
-- [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (2 days ago)
-- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (3 days ago)
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (1 day ago)
+- [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (1 day ago)
+- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (4 days ago)
 
 #### ⌨️ Personal projects that I am working on
 
@@ -24,15 +24,15 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (2 days ago)
+- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (3 days ago)
 - [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) - Basic Sources for MIT 6.824 Distributed Systems Class (1 week ago)
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for machine learning (4 weeks ago)
 
 #### 🔨 Raised Pull Requests for
 
-- [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (1 day ago)
+- [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (1 day ago)
+- [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (2 days ago)
 - [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (1 month ago)
-- [[DLFL21] Update 07-3.md](https://github.com/Atcold/pytorch-Deep-Learning/pull/804) on [Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) (7 months ago)
 
 #### 🔢 Number of visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cswpy)
