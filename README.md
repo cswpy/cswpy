@@ -34,5 +34,8 @@
 - [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (5 days ago)
 - [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (1 month ago)
 
+#### 🎶 What I am listening to right now
+<img src="https://spotify-badge-opal.vercel.app/api/now-playing" width="540" height="52">
+
 #### 🔢 Number of visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cswpy)
