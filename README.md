@@ -24,18 +24,15 @@
 
 #### ⭐ Interesting repos I starred recently
 
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (today)
+- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (today)
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (6 days ago)
-- [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) - Basic Sources for MIT 6.824 Distributed Systems Class (1 week ago)
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for machine learning (1 month ago)
 
 #### 🔨 Raised Pull Requests for
 
 - [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (4 days ago)
 - [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (5 days ago)
 - [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (1 month ago)
-
-#### 🎶 What I am listening to right now
-<img src="https://spotify-badge-opal.vercel.app/api/now-playing" width="540" height="52">
 
 #### 🔢 Number of visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cswpy)
