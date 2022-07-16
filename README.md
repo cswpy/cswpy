@@ -12,9 +12,9 @@
 
 #### 🔭 I am contributing to
 
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (3 days ago)
-- [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (3 days ago)
-- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (6 days ago)
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (4 days ago)
+- [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (4 days ago)
+- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (1 week ago)
 
 #### ⌨️ Personal projects that I am working on
 
@@ -24,14 +24,14 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (5 days ago)
+- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (6 days ago)
 - [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) - Basic Sources for MIT 6.824 Distributed Systems Class (1 week ago)
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for machine learning (1 month ago)
 
 #### 🔨 Raised Pull Requests for
 
-- [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (3 days ago)
-- [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (4 days ago)
+- [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (4 days ago)
+- [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (5 days ago)
 - [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (1 month ago)
 
 #### 🔢 Number of visitors
