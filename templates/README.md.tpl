@@ -30,5 +30,12 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+#### 🎶 I am vibing with
+<img
+	src="https://spotify-badge-opal.vercel.app/api/now-playing.svg"
+	width="540"
+	height="52"
+/>
+
 #### 🔢 Number of visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cswpy)
