@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
+- [akellbl4/spotify-badge](https://github.com/akellbl4/spotify-badge) - 👩‍🎤 Share your love to music with the world 🌍. Put Spotify badge in any place where you can post an image. (today)
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (today)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (today)
-- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译 (6 days ago)
 
 #### 🔨 Raised Pull Requests for
 
