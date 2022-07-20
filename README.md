@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [akellbl4/spotify-badge](https://github.com/akellbl4/spotify-badge) - 👩‍🎤 Share your love to music with the world 🌍. Put Spotify badge in any place where you can post an image. (3 days ago)
-- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (3 days ago)
-- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (3 days ago)
+- [akellbl4/spotify-badge](https://github.com/akellbl4/spotify-badge) - 👩‍🎤 Share your love to music with the world 🌍. Put Spotify badge in any place where you can post an image. (4 days ago)
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (4 days ago)
+- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (4 days ago)
 
 #### 🔨 Raised Pull Requests for
 
