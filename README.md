@@ -14,7 +14,7 @@
 
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (1 week ago)
 - [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (1 week ago)
-- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (1 week ago)
+- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (2 weeks ago)
 
 #### ⌨️ Personal projects that I am working on
 
@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [akellbl4/spotify-badge](https://github.com/akellbl4/spotify-badge) - 👩‍🎤 Share your love to music with the world 🌍. Put Spotify badge in any place where you can post an image. (6 days ago)
-- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (6 days ago)
-- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (6 days ago)
+- [akellbl4/spotify-badge](https://github.com/akellbl4/spotify-badge) - 👩‍🎤 Share your love to music with the world 🌍. Put Spotify badge in any place where you can post an image. (1 week ago)
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (1 week ago)
+- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (1 week ago)
 
 #### 🔨 Raised Pull Requests for
 
