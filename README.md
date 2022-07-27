@@ -24,7 +24,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [litstar414/6.824-golabs-2022](https://github.com/litstar414/6.824-golabs-2022) -  (1 day ago)
+- [litstar414/6.824-golabs-2022](https://github.com/litstar414/6.824-golabs-2022) -  (2 days ago)
 - [akellbl4/spotify-badge](https://github.com/akellbl4/spotify-badge) - 👩‍🎤 Share your love to music with the world 🌍. Put Spotify badge in any place where you can post an image. (1 week ago)
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (1 week ago)
 
