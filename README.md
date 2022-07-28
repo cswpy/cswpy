@@ -12,9 +12,9 @@
 
 #### 🔭 I am contributing to
 
+- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (1 day ago)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (2 weeks ago)
 - [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (2 weeks ago)
-- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (2 weeks ago)
 
 #### ⌨️ Personal projects that I am working on
 
