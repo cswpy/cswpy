@@ -12,7 +12,7 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (3 days ago)
+- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (4 days ago)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (2 weeks ago)
 - [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (2 weeks ago)
 
@@ -24,7 +24,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [litstar414/6.824-golabs-2022](https://github.com/litstar414/6.824-golabs-2022) -  (5 days ago)
+- [litstar414/6.824-golabs-2022](https://github.com/litstar414/6.824-golabs-2022) -  (6 days ago)
 - [akellbl4/spotify-badge](https://github.com/akellbl4/spotify-badge) - 👩‍🎤 Share your love to music with the world 🌍. Put Spotify badge in any place where you can post an image. (2 weeks ago)
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (2 weeks ago)
 
