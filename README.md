@@ -12,9 +12,9 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (5 days ago)
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (2 weeks ago)
-- [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (2 weeks ago)
+- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (6 days ago)
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (3 weeks ago)
+- [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (3 weeks ago)
 
 #### ⌨️ Personal projects that I am working on
 
@@ -24,13 +24,13 @@
 
 #### ⭐ Interesting repos I starred recently
 
+- [xiaoyang-sde/raft-kv](https://github.com/xiaoyang-sde/raft-kv) - Fault-tolerant key-value storage system based on Raft (1 day ago)
 - [litstar414/6.824-golabs-2022](https://github.com/litstar414/6.824-golabs-2022) -  (1 week ago)
 - [akellbl4/spotify-badge](https://github.com/akellbl4/spotify-badge) - 👩‍🎤 Share your love to music with the world 🌍. Put Spotify badge in any place where you can post an image. (2 weeks ago)
-- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles (2 weeks ago)
 
 #### 🔨 Raised Pull Requests for
 
-- [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (2 weeks ago)
+- [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (3 weeks ago)
 - [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (3 weeks ago)
 - [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (1 month ago)
 
