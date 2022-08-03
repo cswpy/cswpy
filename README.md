@@ -12,7 +12,7 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (6 days ago)
+- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (1 week ago)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (3 weeks ago)
 - [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (3 weeks ago)
 
@@ -24,7 +24,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [xiaoyang-sde/raft-kv](https://github.com/xiaoyang-sde/raft-kv) - Fault-tolerant key-value storage system based on Raft (1 day ago)
+- [xiaoyang-sde/raft-kv](https://github.com/xiaoyang-sde/raft-kv) - Fault-tolerant key-value storage system based on Raft (2 days ago)
 - [litstar414/6.824-golabs-2022](https://github.com/litstar414/6.824-golabs-2022) -  (1 week ago)
 - [akellbl4/spotify-badge](https://github.com/akellbl4/spotify-badge) - 👩‍🎤 Share your love to music with the world 🌍. Put Spotify badge in any place where you can post an image. (2 weeks ago)
 
