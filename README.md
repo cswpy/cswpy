@@ -24,7 +24,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [xiaoyang-sde/raft-kv](https://github.com/xiaoyang-sde/raft-kv) - Fault-tolerant key-value storage system based on Raft (5 days ago)
+- [xiaoyang-sde/raft-kv](https://github.com/xiaoyang-sde/raft-kv) - Fault-tolerant key-value storage system based on Raft (6 days ago)
 - [litstar414/6.824-golabs-2022](https://github.com/litstar414/6.824-golabs-2022) -  (1 week ago)
 - [akellbl4/spotify-badge](https://github.com/akellbl4/spotify-badge) - 👩‍🎤 Share your love to music with the world 🌍. Put Spotify badge in any place where you can post an image. (3 weeks ago)
 
