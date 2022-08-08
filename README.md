@@ -24,14 +24,14 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [xiaoyang-sde/raft-kv](https://github.com/xiaoyang-sde/raft-kv) - Fault-tolerant key-value storage system based on Raft (6 days ago)
-- [litstar414/6.824-golabs-2022](https://github.com/litstar414/6.824-golabs-2022) -  (1 week ago)
+- [xiaoyang-sde/raft-kv](https://github.com/xiaoyang-sde/raft-kv) - Fault-tolerant key-value storage system based on Raft (1 week ago)
+- [litstar414/6.824-golabs-2022](https://github.com/litstar414/6.824-golabs-2022) -  (2 weeks ago)
 - [akellbl4/spotify-badge](https://github.com/akellbl4/spotify-badge) - 👩‍🎤 Share your love to music with the world 🌍. Put Spotify badge in any place where you can post an image. (3 weeks ago)
 
 #### 🔨 Raised Pull Requests for
 
 - [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (3 weeks ago)
-- [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (3 weeks ago)
+- [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (4 weeks ago)
 - [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (1 month ago)
 
 #### 🎶 I am vibing with
