@@ -13,8 +13,8 @@
 #### 🔭 I am contributing to
 
 - [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (2 weeks ago)
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (4 weeks ago)
-- [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (4 weeks ago)
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (1 month ago)
+- [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (1 month ago)
 
 #### ⌨️ Personal projects that I am working on
 
@@ -30,7 +30,7 @@
 
 #### 🔨 Raised Pull Requests for
 
-- [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (4 weeks ago)
+- [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (1 month ago)
 - [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (1 month ago)
 - [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (2 months ago)
 
