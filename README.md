@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
+- [OrderLab/OathKeeper](https://github.com/OrderLab/OathKeeper) - Oathkeeper: A Toolchain for Checking Silent Semantic Violations in Distributed Systems (today)
 - [xiaoyang-sde/raft-kv](https://github.com/xiaoyang-sde/raft-kv) - Fault-tolerant key-value storage system based on Raft (1 week ago)
 - [litstar414/6.824-golabs-2022](https://github.com/litstar414/6.824-golabs-2022) -  (2 weeks ago)
-- [akellbl4/spotify-badge](https://github.com/akellbl4/spotify-badge) - 👩‍🎤 Share your love to music with the world 🌍. Put Spotify badge in any place where you can post an image. (3 weeks ago)
 
 #### 🔨 Raised Pull Requests for
 
