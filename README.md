@@ -24,7 +24,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [OrderLab/OathKeeper](https://github.com/OrderLab/OathKeeper) - Oathkeeper: A Toolchain for Checking Silent Semantic Violations in Distributed Systems (2 weeks ago)
+- [OrderLab/OathKeeper](https://github.com/OrderLab/OathKeeper) - Oathkeeper: A Toolchain for Checking Silent Semantic Violations in Distributed Systems (3 weeks ago)
 - [xiaoyang-sde/raft-kv](https://github.com/xiaoyang-sde/raft-kv) - Fault-tolerant key-value storage system based on Raft (1 month ago)
 - [litstar414/6.824-golabs-2022](https://github.com/litstar414/6.824-golabs-2022) -  (1 month ago)
 
