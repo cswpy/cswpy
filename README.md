@@ -24,7 +24,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -  (today)
+- [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -  (1 day ago)
 - [OrderLab/OathKeeper](https://github.com/OrderLab/OathKeeper) - Oathkeeper: A Toolchain for Checking Silent Semantic Violations in Distributed Systems (3 weeks ago)
 - [xiaoyang-sde/raft-kv](https://github.com/xiaoyang-sde/raft-kv) - Fault-tolerant key-value storage system based on Raft (1 month ago)
 
