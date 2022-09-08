@@ -24,15 +24,15 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (2 days ago)
-- [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -  (3 days ago)
+- [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (3 days ago)
+- [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -  (4 days ago)
 - [OrderLab/OathKeeper](https://github.com/OrderLab/OathKeeper) - Oathkeeper: A Toolchain for Checking Silent Semantic Violations in Distributed Systems (3 weeks ago)
 
 #### 🔨 Raised Pull Requests for
 
 - [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (1 month ago)
 - [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (1 month ago)
-- [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (2 months ago)
+- [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (3 months ago)
 
 #### 🎶 I am vibing with
 <img
