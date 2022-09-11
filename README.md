@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (5 days ago)
-- [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -  (6 days ago)
-- [OrderLab/OathKeeper](https://github.com/OrderLab/OathKeeper) - Oathkeeper: A Toolchain for Checking Silent Semantic Violations in Distributed Systems (4 weeks ago)
+- [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (6 days ago)
+- [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -  (1 week ago)
+- [OrderLab/OathKeeper](https://github.com/OrderLab/OathKeeper) - Oathkeeper: A Toolchain for Checking Silent Semantic Violations in Distributed Systems (1 month ago)
 
 #### 🔨 Raised Pull Requests for
 
