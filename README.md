@@ -12,9 +12,9 @@
 
 #### 🔭 I am contributing to
 
+- [unixlabnyuad/unixlabnyuad.github.io](https://github.com/unixlabnyuad/unixlabnyuad.github.io) -  (today)
 - [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (1 month ago)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (2 months ago)
-- [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) - envd Website  (2 months ago)
 
 #### ⌨️ Personal projects that I am working on
 
