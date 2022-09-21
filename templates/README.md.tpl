@@ -8,7 +8,7 @@
 
 🙌 LinkedIn: [pengyu-wang](https://www.linkedin.com/in/pengyu-wang/)
 
-📬 Email: [hncswpy@gmail.com](mailto:hncswpy@gmail.com)
+📬 Email: hncswpy [dot] gmail [dot] com
 
 #### 🔭 I am contributing to
 {{range recentContributions 3}}
