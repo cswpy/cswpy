@@ -12,7 +12,7 @@
 
 #### 🔭 I am contributing to
 
-- [unixlabnyuad/unixlabnyuad.github.io](https://github.com/unixlabnyuad/unixlabnyuad.github.io) -  (1 week ago)
+- [unixlabnyuad/unixlabnyuad.github.io](https://github.com/unixlabnyuad/unixlabnyuad.github.io) -  (2 weeks ago)
 - [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (2 months ago)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (2 months ago)
 
@@ -24,8 +24,8 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [crvs/KDTree](https://github.com/crvs/KDTree) - Simple C&#43;&#43; KD-Tree implementation (1 day ago)
-- [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (4 weeks ago)
+- [crvs/KDTree](https://github.com/crvs/KDTree) - Simple C&#43;&#43; KD-Tree implementation (2 days ago)
+- [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (1 month ago)
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -  (1 month ago)
 
 #### 🔨 Raised Pull Requests for
