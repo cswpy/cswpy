@@ -24,7 +24,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [crvs/KDTree](https://github.com/crvs/KDTree) - Simple C&#43;&#43; KD-Tree implementation (4 days ago)
+- [crvs/KDTree](https://github.com/crvs/KDTree) - Simple C&#43;&#43; KD-Tree implementation (5 days ago)
 - [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (1 month ago)
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -  (1 month ago)
 
@@ -32,7 +32,7 @@
 
 - [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (2 months ago)
 - [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (2 months ago)
-- [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (3 months ago)
+- [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (4 months ago)
 
 #### 🎶 I am vibing with
 <img
