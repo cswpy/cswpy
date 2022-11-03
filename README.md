@@ -26,7 +26,7 @@
 
 - [crvs/KDTree](https://github.com/crvs/KDTree) - Simple C&#43;&#43; KD-Tree implementation (1 month ago)
 - [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (1 month ago)
-- [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -  (1 month ago)
+- [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -  (2 months ago)
 
 #### 🔨 Raised Pull Requests for
 
