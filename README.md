@@ -24,7 +24,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance&#39;s Recommendation System (6 days ago)
+- [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance&#39;s Recommendation System (1 week ago)
 - [crvs/KDTree](https://github.com/crvs/KDTree) - Simple C&#43;&#43; KD-Tree implementation (1 month ago)
 - [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (2 months ago)
 
