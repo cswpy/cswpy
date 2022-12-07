@@ -24,7 +24,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance&#39;s Recommendation System (2 weeks ago)
+- [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance&#39;s Recommendation System (3 weeks ago)
 - [crvs/KDTree](https://github.com/crvs/KDTree) - Simple C&#43;&#43; KD-Tree implementation (2 months ago)
 - [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify (3 months ago)
 
@@ -32,7 +32,7 @@
 
 - [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (4 months ago)
 - [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (4 months ago)
-- [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (5 months ago)
+- [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (6 months ago)
 
 #### 🎶 I am vibing with
 <img
