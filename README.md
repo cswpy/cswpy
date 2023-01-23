@@ -13,8 +13,8 @@
 #### 🔭 I am contributing to
 
 - [unixlabnyuad/unixlabnyuad.github.io](https://github.com/unixlabnyuad/unixlabnyuad.github.io) -  (2 months ago)
-- [cswpy/PublicKey](https://github.com/cswpy/PublicKey) -  (2 months ago)
-- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (5 months ago)
+- [cswpy/PublicKey](https://github.com/cswpy/PublicKey) -  (3 months ago)
+- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems (6 months ago)
 
 #### ⌨️ Personal projects that I am working on
 
