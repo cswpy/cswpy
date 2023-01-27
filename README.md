@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  (today)
 - [RunyaoFan/course-reviewer](https://github.com/RunyaoFan/course-reviewer) - A web application for NYUAD students to create and view course reviews (2 days ago)
 - [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance&#39;s Recommendation System (2 months ago)
-- [crvs/KDTree](https://github.com/crvs/KDTree) - Simple C&#43;&#43; KD-Tree implementation (3 months ago)
 
 #### 🔨 Raised Pull Requests for
 
