@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
+- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) -  (today)
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  (4 days ago)
 - [RunyaoFan/course-reviewer](https://github.com/RunyaoFan/course-reviewer) - A web application for NYUAD students to create and view course reviews (6 days ago)
-- [bytedance/monolith](https://github.com/bytedance/monolith) - ByteDance&#39;s Recommendation System (2 months ago)
 
 #### 🔨 Raised Pull Requests for
 
