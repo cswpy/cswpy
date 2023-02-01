@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (today)
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) -  (1 day ago)
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  (5 days ago)
-- [RunyaoFan/course-reviewer](https://github.com/RunyaoFan/course-reviewer) - A web application for NYUAD students to create and view course reviews (1 week ago)
 
 #### 🔨 Raised Pull Requests for
 
