@@ -13,7 +13,7 @@
 #### 🔭 I am contributing to
 
 - [cswpy/ML4Healthcare](https://github.com/cswpy/ML4Healthcare) -  (1 week ago)
-- [unixlabnyuad/unixlabnyuad.github.io](https://github.com/unixlabnyuad/unixlabnyuad.github.io) -  (2 months ago)
+- [unixlabnyuad/unixlabnyuad.github.io](https://github.com/unixlabnyuad/unixlabnyuad.github.io) -  (3 months ago)
 - [cswpy/PublicKey](https://github.com/cswpy/PublicKey) -  (3 months ago)
 
 #### ⌨️ Personal projects that I am working on
@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (today)
-- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) -  (1 day ago)
-- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  (5 days ago)
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -  (1 day ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (1 day ago)
+- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) -  (2 days ago)
 
 #### 🔨 Raised Pull Requests for
 
