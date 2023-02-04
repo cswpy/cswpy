@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -  (2 days ago)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (2 days ago)
-- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) -  (3 days ago)
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -  (3 days ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (3 days ago)
+- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) -  (4 days ago)
 
 #### 🔨 Raised Pull Requests for
 
