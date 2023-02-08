@@ -12,7 +12,7 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/ML4Healthcare](https://github.com/cswpy/ML4Healthcare) -  (1 week ago)
+- [cswpy/ML4Healthcare](https://github.com/cswpy/ML4Healthcare) -  (2 weeks ago)
 - [unixlabnyuad/unixlabnyuad.github.io](https://github.com/unixlabnyuad/unixlabnyuad.github.io) -  (3 months ago)
 - [cswpy/PublicKey](https://github.com/cswpy/PublicKey) -  (3 months ago)
 
@@ -24,8 +24,8 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -  (6 days ago)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (6 days ago)
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -  (1 week ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (1 week ago)
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) -  (1 week ago)
 
 #### 🔨 Raised Pull Requests for
