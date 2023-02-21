@@ -26,7 +26,7 @@
 
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -  (2 weeks ago)
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (2 weeks ago)
-- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) -  (2 weeks ago)
+- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) -  (3 weeks ago)
 
 #### 🔨 Raised Pull Requests for
 
