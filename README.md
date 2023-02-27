@@ -24,7 +24,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [TomBener/stay-away-from-wechat](https://github.com/TomBener/stay-away-from-wechat) - 人生苦短，远离微信 (4 days ago)
+- [TomBener/stay-away-from-wechat](https://github.com/TomBener/stay-away-from-wechat) - 人生苦短，远离微信 (5 days ago)
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -  (3 weeks ago)
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (3 weeks ago)
 
