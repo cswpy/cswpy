@@ -12,7 +12,7 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/ML4Healthcare](https://github.com/cswpy/ML4Healthcare) -  (1 day ago)
+- [cswpy/ML4Healthcare](https://github.com/cswpy/ML4Healthcare) -  (2 days ago)
 - [unixlabnyuad/unixlabnyuad.github.io](https://github.com/unixlabnyuad/unixlabnyuad.github.io) -  (3 months ago)
 - [cswpy/PublicKey](https://github.com/cswpy/PublicKey) -  (4 months ago)
 
@@ -25,8 +25,8 @@
 #### ⭐ Interesting repos I starred recently
 
 - [TomBener/stay-away-from-wechat](https://github.com/TomBener/stay-away-from-wechat) - 人生苦短，远离微信 (1 week ago)
-- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -  (4 weeks ago)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (4 weeks ago)
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -  (1 month ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (1 month ago)
 
 #### 🔨 Raised Pull Requests for
 
