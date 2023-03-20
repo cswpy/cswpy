@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
+- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (1 day ago)
 - [TomBener/stay-away-from-wechat](https://github.com/TomBener/stay-away-from-wechat) - 人生苦短，远离微信 (3 weeks ago)
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -  (1 month ago)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (1 month ago)
 
 #### 🔨 Raised Pull Requests for
 
