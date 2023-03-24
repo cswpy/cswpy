@@ -14,7 +14,7 @@
 
 - [cswpy/ML4Healthcare](https://github.com/cswpy/ML4Healthcare) -  (3 weeks ago)
 - [unixlabnyuad/unixlabnyuad.github.io](https://github.com/unixlabnyuad/unixlabnyuad.github.io) -  (4 months ago)
-- [cswpy/PublicKey](https://github.com/cswpy/PublicKey) -  (4 months ago)
+- [cswpy/PublicKey](https://github.com/cswpy/PublicKey) -  (5 months ago)
 
 #### ⌨️ Personal projects that I am working on
 
@@ -24,8 +24,8 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (4 days ago)
-- [TomBener/stay-away-from-wechat](https://github.com/TomBener/stay-away-from-wechat) - 人生苦短，远离微信 (4 weeks ago)
+- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (5 days ago)
+- [TomBener/stay-away-from-wechat](https://github.com/TomBener/stay-away-from-wechat) - 人生苦短，远离微信 (1 month ago)
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -  (1 month ago)
 
 #### 🔨 Raised Pull Requests for
