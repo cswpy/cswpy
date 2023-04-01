@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (today)
 - [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (1 week ago)
 - [TomBener/stay-away-from-wechat](https://github.com/TomBener/stay-away-from-wechat) - 人生苦短，远离微信 (1 month ago)
-- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -  (1 month ago)
 
 #### 🔨 Raised Pull Requests for
 
