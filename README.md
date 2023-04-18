@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [Xiyue-Wang/RetCCL](https://github.com/Xiyue-Wang/RetCCL) -  (5 days ago)
+- [Xiyue-Wang/RetCCL](https://github.com/Xiyue-Wang/RetCCL) -  (6 days ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (2 weeks ago)
-- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (4 weeks ago)
+- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (1 month ago)
 
 #### 🔨 Raised Pull Requests for
 
