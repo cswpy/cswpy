@@ -26,7 +26,7 @@
 
 - [Xiyue-Wang/RetCCL](https://github.com/Xiyue-Wang/RetCCL) -  (2 months ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (2 months ago)
-- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (2 months ago)
+- [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems (3 months ago)
 
 #### 🔨 Raised Pull Requests for
 
