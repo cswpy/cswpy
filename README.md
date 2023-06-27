@@ -30,9 +30,9 @@
 
 #### 🔨 Raised Pull Requests for
 
+- [[fix][Python] find-k-pairs-with-smallest-sums](https://github.com/labuladong/fucking-algorithm/pull/1424) on [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) (today)
 - [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (11 months ago)
 - [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (11 months ago)
-- [Modify BigQueryCreateExternalTableOperator to use updated hook function](https://github.com/apache/airflow/pull/24363) on [apache/airflow](https://github.com/apache/airflow) (1 year ago)
 
 #### 🎶 I am vibing with
 <img
