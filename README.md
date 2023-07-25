@@ -13,7 +13,7 @@
 #### 🔭 I am contributing to
 
 - [cswpy/ML4Healthcare](https://github.com/cswpy/ML4Healthcare) -  (2 months ago)
-- [alm818/PackageQuery](https://github.com/alm818/PackageQuery) - PackageQuery (6 months ago)
+- [alm818/PackageQuery](https://github.com/alm818/PackageQuery) - PackageQuery (7 months ago)
 - [unixlabnyuad/unixlabnyuad.github.io](https://github.com/unixlabnyuad/unixlabnyuad.github.io) -  (8 months ago)
 
 #### ⌨️ Personal projects that I am working on
@@ -24,13 +24,13 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [AlanChen4/Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) - A list of Summer 2024 internships for software engineering, updated automatically everyday (5 days ago)
+- [AlanChen4/Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) - A list of Summer 2024 internships for software engineering, updated automatically everyday (6 days ago)
 - [Xiyue-Wang/RetCCL](https://github.com/Xiyue-Wang/RetCCL) -  (3 months ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (3 months ago)
 
 #### 🔨 Raised Pull Requests for
 
-- [[fix][Python] find-k-pairs-with-smallest-sums](https://github.com/labuladong/fucking-algorithm/pull/1424) on [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) (3 weeks ago)
+- [[fix][Python] find-k-pairs-with-smallest-sums](https://github.com/labuladong/fucking-algorithm/pull/1424) on [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) (4 weeks ago)
 - [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (1 year ago)
 - [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (1 year ago)
 
