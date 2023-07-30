@@ -26,7 +26,7 @@
 
 - [AlanChen4/Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) - A list of Summer 2024 internships for software engineering, updated automatically everyday (1 week ago)
 - [Xiyue-Wang/RetCCL](https://github.com/Xiyue-Wang/RetCCL) -  (3 months ago)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (3 months ago)
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (4 months ago)
 
 #### 🔨 Raised Pull Requests for
 
