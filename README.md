@@ -24,9 +24,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [AlanChen4/Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) - A list of Summer 2024 internships for software engineering, updated automatically everyday (3 weeks ago)
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS (1 day ago)
+- [AlanChen4/Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) - A list of Summer 2024 internships for software engineering, updated automatically everyday (4 weeks ago)
 - [Xiyue-Wang/RetCCL](https://github.com/Xiyue-Wang/RetCCL) -  (4 months ago)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (4 months ago)
 
 #### 🔨 Raised Pull Requests for
 
