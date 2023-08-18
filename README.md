@@ -24,8 +24,8 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS (2 days ago)
-- [AlanChen4/Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) - A list of Summer 2024 internships for software engineering, updated automatically everyday (4 weeks ago)
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS (3 days ago)
+- [AlanChen4/Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) - A list of Summer 2024 internships for software engineering, updated automatically everyday (1 month ago)
 - [Xiyue-Wang/RetCCL](https://github.com/Xiyue-Wang/RetCCL) -  (4 months ago)
 
 #### 🔨 Raised Pull Requests for
