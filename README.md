@@ -24,8 +24,8 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch (1 day ago)
-- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS (3 weeks ago)
+- [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch (2 days ago)
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS (4 weeks ago)
 - [AlanChen4/Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) - A list of Summer 2024 internships for software engineering, updated automatically everyday (1 month ago)
 
 #### 🔨 Raised Pull Requests for
