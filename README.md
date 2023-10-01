@@ -25,7 +25,7 @@
 #### ⭐ Interesting repos I starred recently
 
 - [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system (1 week ago)
-- [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch (2 weeks ago)
+- [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch (3 weeks ago)
 - [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS (1 month ago)
 
 #### 🔨 Raised Pull Requests for
