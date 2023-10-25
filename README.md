@@ -26,11 +26,11 @@
 
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM (2 weeks ago)
 - [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend (2 weeks ago)
-- [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (2 weeks ago)
+- [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (3 weeks ago)
 
 #### 🔨 Raised Pull Requests for
 
-- [[fix][Python] find-k-pairs-with-smallest-sums](https://github.com/labuladong/fucking-algorithm/pull/1424) on [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) (3 months ago)
+- [[fix][Python] find-k-pairs-with-smallest-sums](https://github.com/labuladong/fucking-algorithm/pull/1424) on [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) (4 months ago)
 - [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (1 year ago)
 - [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (1 year ago)
 
