@@ -25,7 +25,7 @@
 #### ⭐ Interesting repos I starred recently
 
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM (4 weeks ago)
-- [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend (4 weeks ago)
+- [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend (1 month ago)
 - [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings) - :yum: A curated reading list about database systems (1 month ago)
 
 #### 🔨 Raised Pull Requests for
