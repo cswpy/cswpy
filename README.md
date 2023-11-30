@@ -19,7 +19,7 @@
 
 - [cswpy/ML4Healthcare](https://github.com/cswpy/ML4Healthcare) - 
 - [cswpy/PublicKey](https://github.com/cswpy/PublicKey) - 
-- [cswpy/MIT-6.824](https://github.com/cswpy/MIT-6.824) - Lab assignments for MIT 6.824 Distributed Systems
+- [cswpy/PackageQuery](https://github.com/cswpy/PackageQuery) - PackageQuery
 
 #### ⭐ Interesting repos I starred recently
 
