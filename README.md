@@ -12,7 +12,7 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (3 days ago)
+- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (4 days ago)
 - [cswpy/ML4Healthcare](https://github.com/cswpy/ML4Healthcare) -  (8 months ago)
 
 #### ⌨️ Personal projects that I am working on
@@ -31,7 +31,7 @@
 
 - [[fix][Python] find-k-pairs-with-smallest-sums](https://github.com/labuladong/fucking-algorithm/pull/1424) on [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) (6 months ago)
 - [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (1 year ago)
-- [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (1 year ago)
+- [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (2 years ago)
 
 #### 🎶 I am vibing with
 <img
