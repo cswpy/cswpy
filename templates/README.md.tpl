@@ -2,9 +2,7 @@
 
 🧑‍💻 Interested in data engineering, distributed systems, and [MLOps](https://dlab.berkeley.edu/news/what-mlops-introduction-world-machine-learning-operations).
 
-💡 Personal website: [pengyuwa.ng](https://pengyuwa.ng/)
-
-📓 Blog/Digital Garden: [blog.phillipw.info](https://blog.phillipw.info/)
+💡 Personal website/blog: [pengyuwa.ng](https://pengyuwa.ng/)
 
 🙌 LinkedIn: [pengyu-wang](https://www.linkedin.com/in/pengyu-wang/)
 
