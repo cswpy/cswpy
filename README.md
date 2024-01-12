@@ -2,9 +2,7 @@
 
 🧑‍💻 Interested in data engineering, distributed systems, and [MLOps](https://dlab.berkeley.edu/news/what-mlops-introduction-world-machine-learning-operations).
 
-💡 Personal website: [pengyuwa.ng](https://pengyuwa.ng/)
-
-📓 Blog/Digital Garden: [blog.phillipw.info](https://blog.phillipw.info/)
+💡 Personal website/blog: [pengyuwa.ng](https://pengyuwa.ng/)
 
 🙌 LinkedIn: [pengyu-wang](https://www.linkedin.com/in/pengyu-wang/)
 
@@ -12,7 +10,7 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (1 day ago)
+- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (today)
 - [cswpy/ML4Healthcare](https://github.com/cswpy/ML4Healthcare) -  (8 months ago)
 
 #### ⌨️ Personal projects that I am working on
