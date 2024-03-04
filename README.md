@@ -10,7 +10,7 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (1 day ago)
+- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (2 days ago)
 - [cswpy/ML4Healthcare](https://github.com/cswpy/ML4Healthcare) -  (10 months ago)
 
 #### ⌨️ Personal projects that I am working on
@@ -23,7 +23,7 @@
 
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader (2 weeks ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (2 months ago)
-- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database. (4 months ago)
+- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database. (5 months ago)
 
 #### 🔨 Raised Pull Requests for
 
