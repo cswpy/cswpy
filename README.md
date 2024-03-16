@@ -10,7 +10,7 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (3 days ago)
+- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (4 days ago)
 - [cswpy/ML4Healthcare](https://github.com/cswpy/ML4Healthcare) -  (10 months ago)
 
 #### ⌨️ Personal projects that I am working on
@@ -21,8 +21,8 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. (2 days ago)
-- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader (4 weeks ago)
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. (3 days ago)
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader (1 month ago)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (3 months ago)
 
 #### 🔨 Raised Pull Requests for
