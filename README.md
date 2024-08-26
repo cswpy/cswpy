@@ -10,8 +10,8 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/build-a-router](https://github.com/cswpy/build-a-router) -  (1 month ago)
-- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (2 months ago)
+- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (3 weeks ago)
+- [cswpy/build-a-router](https://github.com/cswpy/build-a-router) -  (4 months ago)
 
 #### ⌨️ Personal projects that I am working on
 
@@ -21,13 +21,13 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. (2 months ago)
-- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader (3 months ago)
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (5 months ago)
+- [perixtar/2024-Tech-OA](https://github.com/perixtar/2024-Tech-OA) - List of Tech Company OAs. Save your time from finding them all over the internet. (3 weeks ago)
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. (5 months ago)
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader (6 months ago)
 
 #### 🔨 Raised Pull Requests for
 
-- [[fix][Python] find-k-pairs-with-smallest-sums](https://github.com/labuladong/fucking-algorithm/pull/1424) on [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) (11 months ago)
+- [[fix][Python] find-k-pairs-with-smallest-sums](https://github.com/labuladong/fucking-algorithm/pull/1424) on [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) (1 year ago)
 - [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (2 years ago)
 - [Translated Development Tutorial to Chinese](https://github.com/tensorchord/envd-docs/pull/71) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (2 years ago)
 
