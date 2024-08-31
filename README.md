@@ -10,7 +10,7 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (3 weeks ago)
+- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (4 weeks ago)
 - [cswpy/build-a-router](https://github.com/cswpy/build-a-router) -  (4 months ago)
 
 #### ⌨️ Personal projects that I am working on
@@ -21,7 +21,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems (2 days ago)
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems (3 days ago)
 - [perixtar/2024-Tech-OA](https://github.com/perixtar/2024-Tech-OA) - List of Tech Company OAs. Save your time from finding them all over the internet. (3 weeks ago)
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. (5 months ago)
 
