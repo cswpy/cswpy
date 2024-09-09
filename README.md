@@ -23,7 +23,7 @@
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems (1 week ago)
 - [perixtar/2024-Tech-OA](https://github.com/perixtar/2024-Tech-OA) - List of Tech Company OAs. Save your time from finding them all over the internet. (1 month ago)
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. (5 months ago)
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. (6 months ago)
 
 #### 🔨 Raised Pull Requests for
 
