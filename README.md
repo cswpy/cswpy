@@ -21,13 +21,13 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [YauKong/One-Click-Scene-Importer](https://github.com/YauKong/One-Click-Scene-Importer) -  (today)
-- [YauKong/Blender_Project](https://github.com/YauKong/Blender_Project) -  (today)
-- [YauKong/Env_Portfolio1](https://github.com/YauKong/Env_Portfolio1) - My Environmental Artist portfolio piece1 (today)
+- [YauKong/One-Click-Scene-Importer](https://github.com/YauKong/One-Click-Scene-Importer) -  (1 day ago)
+- [YauKong/Blender_Project](https://github.com/YauKong/Blender_Project) -  (1 day ago)
+- [YauKong/Env_Portfolio1](https://github.com/YauKong/Env_Portfolio1) - My Environmental Artist portfolio piece1 (1 day ago)
 
 #### 🔨 Raised Pull Requests for
 
-- [feat: replace hardcoded temp directory paths](https://github.com/xline-kv/Xline/pull/974) on [xline-kv/Xline](https://github.com/xline-kv/Xline) (2 weeks ago)
+- [feat: replace hardcoded temp directory paths](https://github.com/xline-kv/Xline/pull/974) on [xline-kv/Xline](https://github.com/xline-kv/Xline) (3 weeks ago)
 - [[fix][Python] find-k-pairs-with-smallest-sums](https://github.com/labuladong/fucking-algorithm/pull/1424) on [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) (1 year ago)
 - [Typo fix](https://github.com/tensorchord/envd-docs/pull/73) on [tensorchord/envd-docs](https://github.com/tensorchord/envd-docs) (2 years ago)
 
