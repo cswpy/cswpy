@@ -21,9 +21,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [YauKong/One-Click-Scene-Importer](https://github.com/YauKong/One-Click-Scene-Importer) -  (1 day ago)
-- [YauKong/Blender_Project](https://github.com/YauKong/Blender_Project) -  (1 day ago)
-- [YauKong/Env_Portfolio1](https://github.com/YauKong/Env_Portfolio1) - My Environmental Artist portfolio piece1 (1 day ago)
+- [YauKong/One-Click-Scene-Importer](https://github.com/YauKong/One-Click-Scene-Importer) -  (2 days ago)
+- [YauKong/Blender_Project](https://github.com/YauKong/Blender_Project) -  (2 days ago)
+- [YauKong/Env_Portfolio1](https://github.com/YauKong/Env_Portfolio1) - My Environmental Artist portfolio piece1 (2 days ago)
 
 #### 🔨 Raised Pull Requests for
 
