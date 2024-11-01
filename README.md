@@ -10,7 +10,7 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (2 months ago)
+- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (3 months ago)
 - [cswpy/build-a-router](https://github.com/cswpy/build-a-router) -  (6 months ago)
 
 #### ⌨️ Personal projects that I am working on
@@ -21,9 +21,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
+- [Eceptonsu/CPSC_583_Final_Project_KG](https://github.com/Eceptonsu/CPSC_583_Final_Project_KG) -  (1 day ago)
 - [YauKong/One-Click-Scene-Importer](https://github.com/YauKong/One-Click-Scene-Importer) -  (1 month ago)
 - [YauKong/Blender_Project](https://github.com/YauKong/Blender_Project) -  (1 month ago)
-- [YauKong/Env_Portfolio1](https://github.com/YauKong/Env_Portfolio1) - My Environmental Artist portfolio piece1 (1 month ago)
 
 #### 🔨 Raised Pull Requests for
 
