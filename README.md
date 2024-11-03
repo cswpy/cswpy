@@ -21,7 +21,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [Eceptonsu/CPSC_583_Final_Project_KG](https://github.com/Eceptonsu/CPSC_583_Final_Project_KG) -  (2 days ago)
+- [Eceptonsu/CPSC_583_Final_Project_KG](https://github.com/Eceptonsu/CPSC_583_Final_Project_KG) -  (3 days ago)
 - [YauKong/One-Click-Scene-Importer](https://github.com/YauKong/One-Click-Scene-Importer) -  (1 month ago)
 - [YauKong/Blender_Project](https://github.com/YauKong/Blender_Project) -  (1 month ago)
 
