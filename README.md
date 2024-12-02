@@ -22,9 +22,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (today)
 - [Eceptonsu/CPSC_583_Final_Project_KG](https://github.com/Eceptonsu/CPSC_583_Final_Project_KG) -  (1 month ago)
 - [YauKong/One-Click-Scene-Importer](https://github.com/YauKong/One-Click-Scene-Importer) -  (2 months ago)
-- [YauKong/Blender_Project](https://github.com/YauKong/Blender_Project) -  (2 months ago)
 
 #### 🔨 Raised Pull Requests for
 
