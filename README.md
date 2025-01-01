@@ -10,9 +10,9 @@
 
 #### 🔭 I am contributing to
 
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 day ago)
 - [cswpy/kueue](https://github.com/cswpy/kueue) -  (2 weeks ago)
-- [cswpy/toir-engine](https://github.com/cswpy/toir-engine) -  (2 weeks ago)
-- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) -  (4 weeks ago)
+- [cswpy/toir-engine](https://github.com/cswpy/toir-engine) -  (3 weeks ago)
 
 #### ⌨️ Personal projects that I am working on
 
@@ -22,13 +22,13 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (4 weeks ago)
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (1 month ago)
 - [Eceptonsu/CPSC_583_Final_Project_KG](https://github.com/Eceptonsu/CPSC_583_Final_Project_KG) -  (2 months ago)
 - [YauKong/One-Click-Scene-Importer](https://github.com/YauKong/One-Click-Scene-Importer) -  (3 months ago)
 
 #### 🔨 Raised Pull Requests for
 
-- [feat: replace hardcoded temp directory paths](https://github.com/xline-kv/Xline/pull/974) on [xline-kv/Xline](https://github.com/xline-kv/Xline) (4 months ago)
+- [Bump devcontainer Dockerfile base image from go1.22 to go1.23](https://github.com/thanos-io/thanos/pull/8031) on [thanos-io/thanos](https://github.com/thanos-io/thanos) (1 day ago)
 
 #### 🎶 I am vibing with
 <img
