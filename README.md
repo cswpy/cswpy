@@ -10,7 +10,7 @@
 
 #### 🔭 I am contributing to
 
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (6 days ago)
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 week ago)
 - [cswpy/kueue](https://github.com/cswpy/kueue) -  (3 weeks ago)
 - [cswpy/toir-engine](https://github.com/cswpy/toir-engine) -  (3 weeks ago)
 
@@ -28,7 +28,7 @@
 
 #### 🔨 Raised Pull Requests for
 
-- [Bump devcontainer Dockerfile base image from go1.22 to go1.23](https://github.com/thanos-io/thanos/pull/8031) on [thanos-io/thanos](https://github.com/thanos-io/thanos) (6 days ago)
+- [Bump devcontainer Dockerfile base image from go1.22 to go1.23](https://github.com/thanos-io/thanos/pull/8031) on [thanos-io/thanos](https://github.com/thanos-io/thanos) (1 week ago)
 
 #### 🎶 I am vibing with
 <img
