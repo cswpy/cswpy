@@ -11,7 +11,7 @@
 #### 🔭 I am contributing to
 
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 month ago)
-- [cswpy/kueue](https://github.com/cswpy/kueue) -  (1 month ago)
+- [cswpy/kueue](https://github.com/cswpy/kueue) -  (2 months ago)
 - [cswpy/toir-engine](https://github.com/cswpy/toir-engine) -  (2 months ago)
 
 #### ⌨️ Personal projects that I am working on
