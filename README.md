@@ -10,9 +10,9 @@
 
 #### 🔭 I am contributing to
 
+- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) - My personal website with blog (1 day ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 month ago)
 - [cswpy/kueue](https://github.com/cswpy/kueue) -  (2 months ago)
-- [cswpy/toir-engine](https://github.com/cswpy/toir-engine) -  (2 months ago)
 
 #### ⌨️ Personal projects that I am working on
 
@@ -22,9 +22,9 @@
 
 #### ⭐ Interesting repos I starred recently
 
+- [YauKong/Auto-Retargeting](https://github.com/YauKong/Auto-Retargeting) - This is the repo of Maya plugin &#34;Auto-Retargeting&#34; (1 day ago)
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (2 months ago)
 - [Eceptonsu/CPSC_583_Final_Project_KG](https://github.com/Eceptonsu/CPSC_583_Final_Project_KG) -  (3 months ago)
-- [YauKong/One-Click-Scene-Importer](https://github.com/YauKong/One-Click-Scene-Importer) -  (5 months ago)
 
 #### 🔨 Raised Pull Requests for
 
