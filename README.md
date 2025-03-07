@@ -1,6 +1,6 @@
 🎓 Master's in CS at Yale, previously at [NYU Abu Dhabi](https://nyuad.nyu.edu/en/)
 
-🧑‍💻 Interested in data engineering, distributed systems, and [MLOps](https://dlab.berkeley.edu/news/what-mlops-introduction-world-machine-learning-operations).
+🧑‍💻 Interested in distributed systems, DevOps and SRE.
 
 💡 Personal website/blog: [pengyuwa.ng](https://pengyuwa.ng/)
 
