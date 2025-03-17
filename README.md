@@ -10,7 +10,7 @@
 
 #### 🔭 I am contributing to
 
-- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) - My personal website with blog (3 days ago)
+- [cswpy/cswpy.github.io](https://github.com/cswpy/cswpy.github.io) - My personal website with blog (4 days ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (2 months ago)
 - [cswpy/kueue](https://github.com/cswpy/kueue) -  (3 months ago)
 
@@ -22,7 +22,7 @@
 
 #### ⭐ Interesting repos I starred recently
 
-- [YauKong/Auto-Retargeting](https://github.com/YauKong/Auto-Retargeting) - This is the repo of Maya plugin &#34;Auto-Retargeting&#34; (2 weeks ago)
+- [YauKong/Auto-Retargeting](https://github.com/YauKong/Auto-Retargeting) - This is the repo of Maya plugin &#34;Auto-Retargeting&#34; (3 weeks ago)
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (3 months ago)
 - [Eceptonsu/CPSC_583_Final_Project_KG](https://github.com/Eceptonsu/CPSC_583_Final_Project_KG) -  (4 months ago)
 
