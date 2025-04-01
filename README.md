@@ -23,7 +23,7 @@
 #### ⭐ Interesting repos I starred recently
 
 - [YauKong/Auto-Retargeting](https://github.com/YauKong/Auto-Retargeting) - This is the repo of Maya plugin &#34;Auto-Retargeting&#34; (1 month ago)
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (3 months ago)
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (4 months ago)
 - [Eceptonsu/CPSC_583_Final_Project_KG](https://github.com/Eceptonsu/CPSC_583_Final_Project_KG) -  (5 months ago)
 
 #### 🔨 Raised Pull Requests for
