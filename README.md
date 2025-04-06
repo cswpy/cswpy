@@ -16,9 +16,9 @@
 
 #### ⌨️ Personal projects that I am working on
 
+- [cswpy/Splitwise-on-Chain](https://github.com/cswpy/Splitwise-on-Chain) - A smart contract to implement Splitwise on blockchain, with cycle resolution
 - [cswpy/toir-engine](https://github.com/cswpy/toir-engine) - 
 - [cswpy/kueue](https://github.com/cswpy/kueue) - 
-- [cswpy/build-a-router](https://github.com/cswpy/build-a-router) - 
 
 #### ⭐ Interesting repos I starred recently
 
